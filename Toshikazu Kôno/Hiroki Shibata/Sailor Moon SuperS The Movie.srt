@@ -1,0 +1,646 @@
+00:00:00: 
+00:00:16:Gdy siê œmiejesz...
+00:00:19:...œwiat staje siê bardziej, | o wiele bardziej s³odki ni¿ cukierki...
+00:01:41:Jeœli s³uchasz uwa¿nie.
+00:01:44:Jaka s³odka melodia!
+00:01:46:Wo³aj¹ mnie wró¿ki godziny trzeciej.
+00:01:51:Pukaj¹ w drzwi sypialni.
+00:01:54:Wstawaj, szybko!
+00:01:56:Poleæmy na statku do krainy s³odyczy.
+00:02:01:Pe³ni snów.
+00:02:04:Ciasta miêtowe i szarlotki.
+00:02:06:Dobre ciasto, dobre duszki.
+00:02:09:Hurra! Ciasteczka!
+00:02:11:Zjedz ³apczywie trzês¹cy siê budyñ.
+00:02:14:Zjedz choæ ma³¹ czekoladkê.
+00:02:16:Wró¿ki godziny trzeciej zaczynaj¹ chichotaæ.
+00:02:21:Pukaj¹ w drzwi sypialni.
+00:02:24:Wstawaj, szybko!
+00:02:26:Poleæmy na statku do krainy s³odyczy.
+00:02:31:Pe³ni marzeñ.
+00:02:34:Ciasta miêtowe i szarlotki.
+00:02:36:Dobre ciasto, dobre duszki.
+00:02:39:Hurra! Ciasteczka!
+00:02:41:Zjedz ³apczywie trzês¹cy siê budyñ.
+00:02:44:Zjedz choæ ma³¹ czekoladkê.
+00:02:46:Wró¿ki godziny trzeciej zaczynaj¹ chichotaæ.
+00:02:59:Zbiera siê dziewiêæ wojowniczek!|Cud w Czarnej Dziurze Snów.
+00:03:23:Przepraszam, ¿e nie jestem szczera.|Gomen ne sunao ja nakute
+00:03:27:Mogê to rzec w swych snach.|Yume no naka nara ieru
+00:03:30:Moje myœli tego pragn¹.|Shikou kairo wa SHORT sunzen
+00:03:34:Chcê ciê zobaczyæ.|Ima sugu aitai yo
+00:03:37:Ksiê¿yc sprawia, ¿e zaczynam ³kaæ.|Nakitaku naru you na MOONLIGHT
+00:03:40:Nie mogê do ciebie zadzwoniæ.|Denwa mo dekinai MIDNIGHT
+00:03:44:Bo jestem naiwna. Co mam zrobiæ?|Datte junjou doushiyou
+00:03:47:Moje serce jest jak kalejdoskop.|HEART wa mangekyou
+00:03:51:Prowadzeni œwiat³em Ksiêzyca...|Tsuki no hikari ni michibikare
+00:03:58:...spotykamy siê raz jeszcze.|Nando mo meguri au
+00:04:04:Licz¹c gwiazdy kostelacji...|Seiza no matataki kazoe
+00:04:08:...przewidujemy wynik naszej mi³oœci.|Uranau koi no yukue
+00:04:11:Urodziliœmy siê w tm samym kraju.|Onaji kuni ni umaretano
+00:04:15:Cudowny Romans.
+00:04:18:Wierzê w niego.|Shinjite iruno
+00:04:21:Cudowny Romans.
+00:04:34:£adnie pachnie.
+00:04:36:Ciekawe czy ju¿ siê upiek³y...
+00:04:40:A³a!
+00:04:41:Co?!
+00:04:42:Sprawdzê, czy ju¿ s¹ dobre.
+00:04:44:Ksi¹¿ka prêdzej powie prawdê|ni¿ twoje oczy!
+00:04:49:Co to ma znaczyæ?!|Co?!
+00:04:53:Zobaczmy.
+00:04:58:Jeszcze chwilê.
+00:04:59:Musimy poczekaæ a¿|siê zarumieni¹ z wierzchu.
+00:05:02:Widzisz?
+00:05:11:To trudne.
+00:05:13:Nie dodawaj tak szybko cukru.
+00:05:16:Gdy siê cz³owiek spieszy,|to siê diabe³ cieszy.
+00:05:20:Chyba tak...
+00:05:22:Minako...
+00:05:24:Jak by nie patrzeæ|nie zosta³o nam wiele p³atków czekoladowych.
+00:05:28:Ale s¹ takie dobre...
+00:05:31:Jak mówi¹ ludzie, nie mo¿esz|wsadzaæ drzwi do cudzej gêby...
+00:05:34:Chyba coœ ci siê pomyli³o...
+00:05:36:Chyba damy sobie spokój|z pieczeniem czekoladowych ciasteczek...
+00:05:48:Ami jest w tym dobra.
+00:05:51:Æwiczy³aœ potajemnie, przyznaj siê.
+00:05:54:Moja mama mnie nauczy³a.
+00:05:56:Twoja mama?
+00:05:57:Tak...
+00:05:59:Nie ma jej czêsto w domu,|bo jest strasznie zapracowana...
+00:06:02:...ale kiedy by³am w podstawówce...
+00:06:06:...piek³a mi takie ciasteczka,|kiedy by³am smutna.
+00:06:10:Mówi³a...
+00:06:11:"Proszê, Ami, to s¹ specjalne ciasteczka,|które w mig rozwiej¹ twoje troski!"
+00:06:21:Wró¿ki trzeciej godziny ju¿...
+00:06:23:"Wró¿ki trzeciej godziny"?
+00:06:26:Kim one s¹?
+00:06:28:"Wró¿ki trzeciej godziny"!
+00:06:29:Nic, o czym warto by mówiæ.
+00:06:31:Chcia³abym siê coœ|o tym dowiedzieæ.
+00:06:34:Mama piek³a mi ciasteczka,|kiedy by³am ma³a...
+00:06:40:...kiedy zapyta³am dlaczego zawsze|piecze je o trzeciej godzinie...
+00:06:44:...powiedzia³a, ¿e to z powodu|"wró¿ek godziny trzeciej".
+00:06:49:Mówi³a, ¿e wró¿ki ka¿¹ matkom...
+00:06:52:...piec dla dzieci ciasteczka|o godzinie trzeciej...
+00:06:55:Gdy nie rozumia³am, czym s¹|te wró¿ki trzeciej godziny...
+00:07:00:...myœla³am, ¿e chodzi jej|o kuku³kê w zegarze.
+00:07:05:"Wró¿ki trzeciej godziny"...
+00:07:07:Ciastka, które piek³a mama,|by³y specjalne...
+00:07:12:Zawsze kiedy mi je piek³a myœla³am...
+00:07:18:...¿e nie tak Ÿle jest byæ smutnym.
+00:07:23:Zazdroszczê ci...
+00:07:25:...bo nawet w przysz³oœci moja mama|potrafi upiec tylko spaleniznê.
+00:07:32:Dlaczego zawsze mówisz to,|czego nie powinnaœ?
+00:07:35:Ca³a Usagi.
+00:07:36:W³aœnie.
+00:07:38:Ciekawe!
+00:07:40:S³odycze s¹ pe³ne wspomnieñ!
+00:07:44:Ale przysz³oœæ jest|wa¿niejsza ni¿ wspomnienia!
+00:07:48:Zbli¿aj¹ siê Walentynki...
+00:07:50:...ja sama upiekê ciastka|i pochwycê szczêœcie...
+00:07:54:S³odycze domowej roboty|przynosz¹ szczêœcie?
+00:08:01:Oczywiœcie!
+00:08:02:Dlatego uczymy siê |jak dobrze piec ciastka!
+00:08:05:Zw³aszcza ¿e Mako to geniusz|w dziedzinie pieczenia!
+00:08:09:Nie przesadzaj...
+00:08:11:Wiêc Makoto ju¿ jest szczêœliwa?
+00:08:24:Szczêœcie to czas,|gdy gonisz za samym szczêœciem.
+00:08:28:Mako...
+00:08:29:To nie brzmia³o przekonywuj¹co...|Dobra robota!
+00:08:33:Te¿ tak myœlê...
+00:08:47:Patrz jakie mi wysz³y œliczne ciasteczka!
+00:08:50:W przeciwieñstwie do|twojej spalenizny!
+00:08:54:SiedŸ cicho!
+00:08:57:Moje ciasteczka s¹ smaczne!
+00:09:00:Jeden kês dodaje mnóstwa|mocy i odwagi!
+00:09:04:To s¹ specjalne ciasteczka!
+00:09:06:Te, które ja zrobi³am|s¹ smacz...
+00:09:18:Trzymajcie mnie...
+00:09:20:Ciasteczka Chibiusy s¹ bardzo dobre.
+00:09:23:Tak! Naprawdê dobre!
+00:09:25:Mo¿e nie wygl¹daj¹ najlepiej,|ale smakuj¹ œwietnie!
+00:09:29:Widzisz?
+00:09:31:Dlaczego, dlaczego?!
+00:09:34:Mamoru zje je i powie,|¿e s¹ dobre.
+00:09:43:Jak by nie patrzeæ,|wygram ten pojedynek!
+00:09:46:Pojedynek?
+00:09:47:Wygram, jeœli Mamoru zje choæ jedno!
+00:10:04:Co siê sta³o?
+00:10:25:Jesteœ œlicznym kociakiem.
+00:10:27:Ma na imiê Diana.
+00:10:29:Mi³o mi ciê poznaæ, Diano.
+00:10:34:Och, przestañ, to ³askocze!
+00:10:46:Wiêc co tu robisz?
+00:10:49:Czekasz na kogoœ?
+00:10:51:Hej, mamo, chcesz ciastko?
+00:10:54:Ogl¹dam dzieci,|które st¹d wychodz¹.
+00:10:58:Wygl¹daj¹ na szczêœliwe.
+00:11:00:Tak.
+00:11:01:Poniewa¿ to jest cukiernia!
+00:11:04:Fajne miasto...
+00:11:06:Wszystkie matki s¹ takie mi³e...
+00:11:09:Niestety nie wszystkie.
+00:11:13:Moja mama jest beznadziejn¹ p³aks¹...
+00:11:17:...i zjad³a moje ciasteczka!
+00:11:22:Ja te¿ zjad³am trochê|jej ciastek, wiêc...
+00:11:28:Jesteœ zabawna.
+00:11:31:Naprawdê przyjemne miasto...
+00:11:34:S³odycze te¿ wygl¹daj¹ na szczêœliwe.
+00:11:37:Rozumiesz uczucia s³odyczy?
+00:11:40:Chcia³yby a¿ tañczyæ,|poniewa¿ dzieci je bardzo kochaj¹!
+00:11:57:Ja tylko patrzê na nie,|jako coœ dobrego do zjedzenia.
+00:12:17:Niemo¿liwe!
+00:12:22:Jestem Chibiusa!
+00:12:27:A ja Peruru.
+00:12:31:Peruru...? 
+00:12:40:Tak?
+00:12:41:Mam dla ciebie przesy³kê...
+00:12:42:Najwiêksza mi³oœæ œwiata!
+00:12:47:Ten bachor gdzieœ tu siê musi chowaæ...
+00:12:50:Masz na myœli Chibiusê?
+00:12:52:To nie jest ¿aden bachor...
+00:12:54:I dziœ jej tutaj nie by³o.
+00:12:56:Ale to jest g³upi bachor!|Zawsze, zawsze wtyka nos w cudze sprawy!
+00:13:01:Mamoru?
+00:13:03:Kiedy kupi³eœ tê koszulê?
+00:13:06:T¹?
+00:13:08:Gdy by³em na zakupach z Chibius¹.
+00:13:16:Mamoru!
+00:13:18:Zawsze chcia³am siê ciebie zapytaæ...
+00:13:21:Kto jest dla ciebie wa¿niejszy,|ja czy Chibiusa?!
+00:13:26:O któr¹ siê bardziej troszczysz?
+00:13:29:Co to za pytanie?
+00:13:31:Odpowiesz mi?
+00:13:35:Wiedzia³am, Chibiusa wiêcej|dla ciebie znaczy...
+00:13:38:Przynios³am najlepsze na œwiecie ciasteczka!
+00:13:41:Jestem najbardziej pechow¹|kobiet¹ na œwiecie!
+00:13:44:Ciasteczka?
+00:13:46:Zrobiê wiêc kawê.
+00:13:50:Zapraszamy na wiadomoœci.
+00:13:51:Ostatnie dni zaowocowa³y na ca³ym œwiecie|seri¹ tajemniczych uprowadzeñ...
+00:13:54:...co noc w wybranym mieœcie|znikaj¹ wszystkie dzieci...
+00:13:57:Przestêpstwo zosta³o odnotowane|ju¿ w 43 miastach i 27 krajach.
+00:14:04:...reszta pozostaje tajemnic¹...
+00:14:07:...równie¿ miejsce, |gdzie uprowadzono dzieci.
+00:14:11:Proszê.
+00:14:13:Co siê sta³o?
+00:14:14:Ciasteczka, które upiek³am.
+00:14:20:Co? Wiem, ¿e nie wygl¹daj¹ kusz¹co,|ale w smaku s¹ doskona³e.
+00:14:23:Jeden kês dodaje mnóstwa|mocy i odwagi!
+00:14:28:To s¹ specjalne ciasteczka!
+00:14:31:Mogê je wzi¹æ?
+00:14:35:Tak.
+00:14:36:Czeœæ! 
+00:14:42:Spotkajmy siê jeszcze!
+00:14:55:Centrum Handlowe Juban
+00:15:38:Panno Usagi, panno Usagi...
+00:15:41:Mamoru, kochasz mnie?
+00:15:43:ObudŸ siê, panno Usagi!
+00:16:01:Co ona wyprawia?
+00:16:03:Usagi!
+00:16:05:Co tu robicie?!
+00:16:08:Spójrzcie tam.|Chibiusa siê dziwnie zachowuje.
+00:16:11:Nie tylko Chibiusa.
+00:16:13:Spójrz tam!
+00:16:16:Chyba ¿artujecie, co to jest?
+00:16:20:Wygl¹da na to, ¿e dzieci|same wymykaj¹ siê z domów.
+00:16:25:Czy to jest popularna|teraz zabawa?
+00:16:27:Nie mo¿e byæ!
+00:16:29:W wiadomoœciach mówili, ¿e dzieci z ca³ego œwiata|znikaj¹ w niewyjaœnionych okolicznoœciach...
+00:16:35:To chyba ma jakiœ z tym zwi¹zek.
+00:16:40:S³yszycie flet?
+00:16:44:Flet?
+00:16:56:Jakaœ dziwna energia|jest uwalniana z t¹ melodi¹!
+00:17:03:Ws³uchaj siê uwa¿nie.
+00:17:06:Jaka œliczna melodia!
+00:17:08:Wró¿ki trzeciej godziny wo³aj¹ mnie.
+00:17:14:O co w tym chodzi?
+00:17:18:Nie bagatelizujmy tego.
+00:17:20:Nie mo¿emy zostawiæ tych dzieci!
+00:17:23:Pe³ni marzeñ.
+00:17:26:Chibiusa... poczekaj!
+00:17:27:Puœæ... Puœæ...|Ma³a Damo, proszê, weŸ siê w garœæ!
+00:17:32:Chyba nie mam wyboru...
+00:17:37:Co ty wyprawiasz, idiotko?
+00:17:41:Gdzie ja jestem?
+00:17:43:Nic nie pamiêtasz?!
+00:17:48:No ju¿, idŸcie do domu!
+00:17:50:To nic nie da!
+00:17:53:ChodŸ.
+00:17:55:Lecimy do krainy s³odyczy.
+00:17:58:ObudŸcie siê!
+00:17:59:...do krainy s³odyczy na statku.
+00:18:03:Pe³ni...
+00:18:14:Nie stawajcie nam na drodze.
+00:18:16:Kim jesteœ?
+00:18:17:Dzieci gromadz¹ siê tu z w³asnej woli.|Nie stawaj nam na drodze.
+00:18:23:Wiêc to ty je tu zwabi³eœ!
+00:18:26:Nie pozwolê ci na wiêcej!
+00:18:28:No proszê, mamy dziœ nieproszonych goœci...
+00:18:34:Papiyot!
+00:18:38:O co chodzi?
+00:18:40:Cukierek.
+00:18:54:Potwór?
+00:19:00:Pozb¹dŸcie siê ich, Cukierkowe Dzieci!
+00:19:29:OdejdŸ ode mnie!
+00:19:30:Wynoœ siê!
+00:19:32:Chibiusa, zrób coœ!
+00:19:34:Nie, to ty coœ zrób!
+00:19:36:Nie, ty!
+00:19:37:Jestem starsza, wiêc mnie s³uchaj!
+00:19:39:Gadaj zdrów!
+00:19:44:Zmieñcie siê!
+00:19:46:Kryszta³owa Potêgo Merkurego...
+00:19:56:Kryszta³owa Potêgo Jowisza...
+00:20:03:Kryszta³owa Potêgo Marsa...
+00:20:10:Kryszta³owa Potêgo Wenus...
+00:20:17:Dzia³aj!
+00:20:34:Wenus...
+00:20:40:Uderzenie Piêkna i Mi³oœci!
+00:20:58:Potêgo Przesilenia...
+00:21:01:...dzia³aj!
+00:21:35:Ksiê¿ycowy Diadem!
+00:22:07:Kim jesteœcie?
+00:22:09:Czeka³am na to!
+00:22:11:Jesteœmy obroñcami sprawiedliwoœci|przemierzaj¹cymi œwiat!
+00:22:14:Nie wybaczymy ³otrom, które zwodz¹ dzieci|graj¹c na jakiejœ kobzie!
+00:22:18:Wojowniczki o mi³oœæ i sprawiedliwoœæ!
+00:22:19:Piêkne dziewczyny w marynarskich mundurkach!
+00:22:25:Czarodziejka z Ksiê¿yca!
+00:22:28:Ma³a Czarodziejka z Ksiê¿yca!
+00:22:31:W imieniu Ksiê¿yca...
+00:22:34:...ukarzemy ciê!
+00:22:35:My, Czarodziejki...
+00:22:37:...te¿ ci nie wybaczymy!
+00:22:47:Co to jest?
+00:22:50:Co siê dzieje?
+00:22:53:Coœ s³odko pachnie.
+00:22:57:To z tego domu!
+00:22:58:Czy to...
+00:23:00:Dom ze s³odyczy?
+00:23:03:Czarodziejko z Ksiê¿yca! Dziewczyny!
+00:23:05:Ciekawe...
+00:23:06:Co tu siê dzieje?
+00:23:07:Iluzja...
+00:23:08:Melodia fletu namalowa³a|im przed oczami iluzjê!
+00:23:29:Kiedy tak siê zmniejszy³yœcie?
+00:23:32:Ty te¿, Wenus.
+00:23:35:Jesteœcie mego wzrostu.
+00:23:42:Wygl¹da smacznie!
+00:24:13:Tuxedo!
+00:24:15:Nie powinnaœ tego jeœæ|Czarodziejko z Ksiê¿yca.
+00:24:30:A³a!
+00:24:40:Jesteœ jednym z nich?
+00:25:14:Tuxedo!
+00:25:26:Poczekaj!
+00:25:34:Peruru?
+00:25:35:Czy to ty, Peruru?
+00:25:36:Co to ma znaczyæ?!
+00:25:38:Bracie! Od kiedy czynisz|tak okrutne rzeczy?!
+00:25:43:Pupuran, o co chodzi?
+00:25:52:Pani Badiyanu...
+00:25:55:Co siê sta³o?
+00:25:56:Nie pozwolê na opóŸnienia w planie.
+00:25:59:Tak... Ale Peruru...
+00:26:03:Dlaczego chcesz porwaæ tyle dzieci?
+00:26:06:Nawet jeœli nie mia³oby siê|obejœæ bez przemocy?
+00:26:09:Jesteœ bezczelny, Peruru!
+00:26:10:Nie wierzê, ¿e to prawda.
+00:26:12:Badiyanu, mogê ci zaufaæ!
+00:26:16:Pani Badiyanu robi to dla|wiecznego szczêœcia tych dzieci.
+00:26:20:Nie wierzê.
+00:26:22:Peruru!
+00:26:26:Rozumiem... wiêc ta ma³a|dziewczyna ciê zwodzi...
+00:26:30:Nie! Ona nie ma z tym nic wspólnego!
+00:26:33:Kontynuujcie pracê.
+00:26:35:Badiyanu!
+00:26:36:Zabierzcie j¹ z tymi dzieciakami.
+00:26:39:Wedle ¿yczenia.
+00:26:46:Badiyanu!
+00:26:50:Wiêc wracamy do walki.
+00:26:53:Bierzcie je, Cukierkowe Dzieci!
+00:26:55:Bracie!
+00:26:58:Jowisz...
+00:27:01:Dêbowa Ewolucja...
+00:27:06:Merkury...
+00:27:09:Wodna Rapsodia!
+00:27:51:Nieeeee!
+00:27:52:Tuxedo!
+00:27:59:Chibiusa!
+00:28:00:Chibiusa...
+00:28:03:Cholera!
+00:28:14:Jeœli ws³uchasz siê uwa¿nie.
+00:28:17:Jaka œliczna melodia!
+00:28:20:Trzecia godzina...
+00:28:21:Chibiusa!
+00:28:23:Chibiusa!
+00:28:25:Pukaj¹ w drzwi sypialni.
+00:28:27:Wstawaj, szybko!
+00:28:30:Poleæmy na statku do krainy s³odyczy.
+00:28:35:Pe³ni marzeñ.
+00:28:37:Miêtowe ciasta i szarlotki.
+00:28:40:Dobre ciasto, dobre duszki.
+00:28:42:Hurra! Ciasteczka!
+00:28:44:Zjedz ³apczywie trzês¹cy siê budyñ.
+00:28:47:Zjedz choæ ma³¹ czekoladkê.
+00:28:57:O nie.
+00:28:59:Nie uciekniesz mi!
+00:29:00:Kim jesteœ?!
+00:29:06:Ws³uchaj siê uwa¿nie.
+00:29:09:Jaka œliczna melodia!
+00:29:12:Wo³aj¹ mnie wró¿ki godziny trzeciej.
+00:29:17:Pukaj¹ w drzwi sypialni.
+00:29:19:Wstawaj, szybko!
+00:29:22:Poleæmy na statku do krainy s³odyczy.
+00:29:27:Pe³ni marzeñ.
+00:29:29:Miêtowe ciasta i szarlotki.
+00:29:32:Dobre ciasto, dobre duszki.
+00:29:34:Hurra! Ciasteczka!
+00:29:36:Zjedz ³apczywie trzês¹cy siê budyñ.
+00:29:39:Zjedz choæ ma³¹ czekoladkê.
+00:29:42:Wró¿ki godziny trzeciej zaczynaj¹ chichotaæ.
+00:29:47:Zjedz ³apczywie trzês¹cy siê budyñ.
+00:29:49:Zjedz choæ ma³¹ czekoladkê.
+00:29:52:Wró¿ki godziny trzeciej zaczynaj¹ chichotaæ.
+00:30:03:Dobra robota.
+00:30:46:Da³eœ siê oszukaæ, Peruru?
+00:30:50:Rozumiem... Czujê od ciebie dziwn¹ energiê...
+00:30:56:Chcesz wejœæ do trumny snów|tak jak inne dzieci?
+00:31:01:Zosta³o ma³o czasu.
+00:31:04:Wkrótce ta planeta zostanie poch³oniêta|przez Czarn¹ Dziurê Snów.
+00:31:10:W centrum tego zamku,|Cukierkowa Energia...
+00:31:12:...ze snów dzieci poch³oniêtych|przez moj¹ Czarn¹ Dziurê...
+00:31:14:...jest nieustannie absorbowana...
+00:31:21:...by ju¿ nied³ugo poch³on¹æ tê planetê.
+00:31:26:Wtedy ka¿dy g³upi ziemianin bêdzie|¿y³ w swojej trumnie snów...
+00:31:35:To bêdzie cudowny widok!
+00:31:40:Zwariowa³aœ?
+00:31:41:To siê nigdy nie stanie!
+00:31:44:Na pewno!
+00:31:46:Hê?
+00:31:47:Dlaczego tak myœlisz?
+00:31:49:Bo na Ziemi ¿yje|Czarodziejka z Ksiê¿yca.
+00:31:56:To nie jest...
+00:31:58:...zwyk³a chmura...
+00:32:00:Z Mamoru wszystko w porz¹dku.
+00:32:02:To nie by³o groŸne.
+00:32:07:Usagi...
+00:32:09:Mamoru...
+00:32:11:Gdzie jest Chibiusa?
+00:32:18:Nic jej nie jest.
+00:32:23:Nic siê nie sta³o temu bachorowi.
+00:32:28:To niebezpieczne.
+00:32:35:Musimy siê spieszyæ.
+00:32:36:Jeœli zostaniemy wch³oniêci przez|Czarn¹ Dziurê Snów...
+00:32:40:...nigdy ju¿ nie uwolnimy Chibiusy.
+00:32:43:Czarna Dziura Snów?
+00:32:45:Muszê j¹ uratowaæ...
+00:32:47:Niemo¿liwe byœmy zosta³y z³apane w pu³apkê...
+00:32:50:Nie mamy wyboru|jak tylko mu zaufaæ.
+00:32:56:Masz to... od Chibiusy, prawda?
+00:33:00:Ja...
+00:33:03:Zbli¿amy siê do chmury.
+00:33:04:Wystarczy byœmy siê przez ni¹ przebili!
+00:33:16:Zaprowadzê wszystkie dzieci do œwiata snów.
+00:33:20:Do œwiata, w którym|nic ich nie bêdzie bola³o.
+00:33:24:Teraz, wró¿ki, u¿yczcie mi swych mocy...
+00:33:28:Czeœæ!
+00:33:30:Spotkajmy siê jeszcze!
+00:33:42:Co?! Czujê niebywa³¹ liczbê|z³owrogich uczuæ...
+00:33:46:Ale...
+00:33:46:...nic nie widzê.
+00:34:03:To jest...
+00:34:04:...Pa³ac Marcepanowy, gdzie|znajduj¹ siê porwane dzieci.
+00:34:34:Armata!
+00:34:35:Za³adowaæ!
+00:34:36:Za³adowaæ!
+00:34:38:Za³adowaæ...
+00:34:42:Peruru te¿ wysadzimy?
+00:34:45:Ognia!
+00:34:47:Blask Wodnej Iluzji!
+00:35:21:Co to znaczy, Peruru?|Przyprowadzaæ tu te Czarodziejki!
+00:35:25:Powstrzymam Badiyanu.
+00:35:27:Uwolnij Chibiusê i inne dzieci!
+00:35:30:Chibiusa?
+00:35:31:Ta ma³a dziewczynka.|Lady Badiyanu coœ z ni¹ ma zrobiæ.
+00:35:35:Prawdopodobnie ma najlepsz¹ energiê|potrzebn¹ do wype³nienia Czarnej Dziury Snów.
+00:35:41:Nie wybaczê jej tego!
+00:35:44:Idioci, powinniœcie tu umrzeæ.
+00:35:47:Uwa¿aj. Mo¿liwe, ¿e maj¹ |jakieœ nadzwyczajne moce.
+00:35:53:Papiyot!
+00:36:02:Potê¿ny...
+00:36:04:Piorun!
+00:36:07:£añcuchy Wenus!
+00:36:17:Energia Lady Badiyanu, której|nam u¿ycza, wci¹¿ wzrasta.
+00:36:24:Teraz nie macie szans wygraæ.
+00:36:41:Ten atak...
+00:36:42:Co?
+00:36:47:Stra¿niczka planety nieba...
+00:36:50:Czarodziejka z Urana!
+00:36:53:Stra¿niczka planety mórz...
+00:36:56:Czarodziejka z Neptuna!
+00:37:00:Stra¿niczka planety czasu...
+00:37:03:Czarodziejka z Plutona!
+00:37:07:Trzy Czarodziejki z Zewnêtrznego|Uk³adu S³onecznego...
+00:37:09:...przywo³ane wielkim niebezpieczeñstwem...
+00:37:12:...przyby³y!
+00:37:13:Uran! Neptun!
+00:37:14:Pluton!
+00:37:20:Œmiertelny Krzyk!
+00:37:35:Jak siê tu dosta³yœcie?
+00:37:36:Wewn¹trz zamku narasta olbrzymia energia.
+00:37:41:Czarodziejko z Ksiê¿yca, w œrodku|jest Ma³a Dama, prawda?
+00:37:46:Macie wiêcej sprzymierzeñców?
+00:37:48:Jak wy, ludzie, mogliœcie znaleŸæ |ten niewidzialny pa³ac?
+00:37:53:Nic nie oszuka mego lusterka.
+00:37:57:Podwodne...
+00:38:00:...Odbicie!
+00:38:10:Ciêcie Kosmicznego...
+00:38:13:...Miecza!
+00:38:23:Cholera!
+00:38:25:W takim razie...
+00:38:27:Mars...
+00:38:29:Ognisty...
+00:38:32:£uk!
+00:38:42:A by was diabli...
+00:38:46:Co zamierzacie zrobiæ z dzieæmi?
+00:38:49:Uczynimy, by te dzieci|na zawsze zosta³y dzieæmi!
+00:38:54:Dlaczego?
+00:39:00:Pani Badiyanu!
+00:39:08:Œwiat, w którym dzieci|nigdy nie urosn¹?
+00:39:10:W œwiecie doros³ych|równie¿ s¹ przyjemnoœci!
+00:39:14:Naprawdê nie musz¹ tego robiæ.
+00:39:23:Statek jest w porz¹dku. wskakujcie!
+00:39:36:Czarodziejko z Ksiê¿yca...|Ten ch³opiec to...
+00:39:40:Ch³opak Chibiusy.
+00:39:43:Tak?
+00:40:15:To jest œwiêta ziemia!
+00:40:18:Nie mo¿ecie wejœæ!
+00:40:20:Co zrobi³aœ Chibiusie i dzieciom?
+00:40:22:Dzieci s¹ tam!
+00:40:30:To s¹...
+00:40:31:Dzieci...
+00:40:32:Straszne...
+00:40:34:Przestañ, wiedŸmo z innego œwiata!
+00:40:45:Ma³y, g³upi Peruru.
+00:40:47:Chcia³am urzeczywistniæ twe ¿yczenie|i uczyniæ œwiat s³odkim...
+00:40:56:Nikt nie bêdzie szczêœliwy|w takim œwiecie!
+00:41:01:Chcê ochraniaæ miejsce,|gdzie dzieci mog¹...
+00:41:04:...dorastaæ obok rodziny i znajomych!
+00:41:07:To ta dziewczyna nauczy³a ciê takich g³upot?
+00:41:15:Ma³a Damo!|Chibiusa!
+00:41:17:Czarodziejko z Ksiê¿yca!
+00:41:28:Za póŸno!
+00:41:30:O nie!
+00:41:53:Co?
+00:41:54:Prawdziwa forma ciemnej energii.
+00:41:56:Czy to Czarna Dziura Snów?
+00:41:58:Tak!
+00:42:00:Zwiêksza sw¹ si³ê poch³aniaj¹c...
+00:42:03:...energiê snów tych dzieci...
+00:42:06:...i...
+00:42:11:Przestañ!
+00:42:11:Chibiusa!
+00:42:35:Ognista...
+00:42:40:...Dusza!
+00:42:46:Otacza j¹ bariera.
+00:42:51:Tak jak myœla³am.
+00:42:53:Ta dziewczyna ma najlepsz¹ energiê,|która wype³ni m¹ Czarn¹ Dziurê!
+00:43:28:Co chcesz zrobiæ?
+00:43:36:Energia naszych serc, myœl¹cych|o Chibiusie, poruszy ten statek.
+00:43:41:Rozumiem! ChodŸmy!
+00:43:54:Mo¿e twój statek przedrze siê przez barierê?!
+00:43:58:Dziewczyny, pomó¿cie Czarodziejce z Ksiê¿yca!
+00:44:01:P³on¹ca... Œmiertelny... Blask... Trzêsienie...|£añcuchy... B³yszcz¹cy... G³êbokie...
+00:44:23:Co?
+00:44:26:Czarodziejko z Ksiê¿yca!
+00:44:27:Czarodziejko z Ksiê¿yca!
+00:44:28:Chcê odzyskaæ Chibiusê!
+00:44:30:Moja Czarna Dziura pragnie jej energii.
+00:44:35:Nie puszczê jej!
+00:44:37:Czarodziejko z Ksiê¿yca!|Uwa¿aj!
+00:44:46:Stój!|Chibiusa!
+00:45:07:Oddaj Chibiusê!
+00:45:09:ZejdŸ mi z drogi!
+00:45:21:Jeœli siê zbli¿ysz...
+00:45:23:...te¿ zostaniesz wessana.
+00:45:25:Idiotka. Czarna Dziura jest czêœci¹ mnie.
+00:45:31:U¿yjê energii tej dziewczyny|i wch³onê tê planetê.
+00:45:37:Nie pozwalam!
+00:45:46:Peruru! Czarodziejko z Ksiê¿yca!
+00:45:48:Chibiusa!
+00:45:54:Chibiusa!
+00:46:01:Czarodziejko z Ksiê¿yca!
+00:46:02:Czarodziejko z Ksiê¿yca!
+00:46:14:Chibiusa!
+00:46:24:Transformacja...
+00:46:27:Zanika...
+00:46:30:Czarodziejko z Ksiê¿yca...
+00:46:40:Cholera..
+00:47:03:Czarodziejko z Ksiê¿yca?
+00:47:04:To ciastko, które dodaje odwagi...
+00:47:07:...i mocy ju¿ za pierwszym kêsem.
+00:47:22:Czarodziejko z Ksiê¿yca... nie mo¿esz...
+00:47:24:Nie! Jeœli wejdziesz do œrodka, ju¿ nigdy...
+00:47:40:Czarodziejko z Ksiê¿yca...
+00:47:46:Idiotka!
+00:47:47:Wchodziæ tam z w³asnej woli!
+00:48:02:Chibiusa...
+00:48:13:Chibiusa... Chibiusa...
+00:48:15:Chibiusa!
+00:48:17:Nie budŸ...
+00:48:19:Nie budŸ œpi¹cych dzieci.
+00:48:33:Usagi...
+00:48:35:Jak tu wesz³aœ?
+00:48:37:Mamoru... czy to twój pokój?
+00:48:40:Oczywiœcie.
+00:48:44:Mamoru, jak twoje rany?
+00:48:48:Ju¿ dobrze.
+00:48:51:Rozumiem... Cieszê siê.
+00:48:54:Mamoru, Chbiusa nie mo¿e siê obudziæ.
+00:48:57:Chibiusa?
+00:49:08:Chibiusa...
+00:49:12:Mamoru?
+00:49:13:Ju¿ dobrze. Pozwólmy jej spaæ.
+00:49:17:Chibiusa œni weso³y sen.
+00:49:20:Mo¿e spaæ...
+00:49:23:Mo¿emy przy niej byæ ca³y czas...
+00:49:25:...sami, bez przerwy.
+00:49:29:Ale muszê najpierw uratowaæ dzieci...
+00:49:33:One wszystkie...
+00:49:34:Kto siê nimi zajmie?
+00:49:39:Cieszê siê, ¿e tu jesteœ, Usagi.
+00:49:43:Mamoru.
+00:49:45:Powiedz mi prawdê...|Kto jest dla ciebie wa¿niejszy, ja czy Chibiusa?
+00:49:51:G³uptasie.
+00:49:52:Oczywiœcie ¿e ty.
+00:49:56:Jedyn¹ osob¹ na œwiecie, która jest|dla mnie wa¿na, jesteœ ty, Usagi.
+00:50:13:Mamoru.
+00:50:16:Jesteœ wspania³y nawet w moim œnie.
+00:50:23:Potêgo Przesilenia!
+00:50:34:Nie mo¿e byæ!
+00:50:39:Dlaczego siê uwolni³aœ od tego snu?!
+00:50:43:Czarodziejko z Ksiê¿yca, co chcesz zrobiæ?
+00:50:47:Zostaw tê dziewczynê.
+00:50:50:Tym sposobem na powrót wrócisz|do swoich s³odkich snów.
+00:50:55:Albo spalisz siê w p³omieniach|razem z t¹ dziewczyn¹.
+00:51:01:Tylko pomyœl...
+00:51:04:Gdyby ka¿dy cz³owiek w swym œnie myœla³...
+00:51:08:...tylko o sobie,|nikogo by nie rani³.
+00:51:12:Stworzy³am tê Czarn¹ Dziurê Snów|ze wzglêdu na ludzi.
+00:51:19:Zawsze myœla³am...
+00:51:21:...¿e nie tak Ÿle jest byæ smutnym.
+00:51:24:Przysz³oœæ jest wa¿niejsza ni¿ wspomnienia!
+00:51:27:Szczêœcie to czas, |gdy gonisz za samym szczêœciem.
+00:51:31:To nie brzmi przekonywuj¹co...|Dobra robota!
+00:51:43:Co?!
+00:51:51:To œwiat³o...
+00:51:52:Czarodziejka z Ksiê¿yca?
+00:51:53:Ksiê¿niczka...
+00:51:55:Co... to za œwiat³o?!
+00:52:03:Czarodziejko z Ksiê¿yca!
+00:52:11:To Czarodziejka z Ksiê¿yca!
+00:52:18:Czarodziejko z Ksiê¿yca...
+00:52:19:Oddaj mi tê dziewczynê! Ju¿!
+00:52:22:Daj mi jej wspania³¹ energiê!
+00:52:27:Dlaczego?!
+00:52:29:Wiêc zginiesz w p³omieniach,|wedle twego ¿yczenia!
+00:53:02:Proszê, dziewczyny!
+00:53:05:Proszê, dziewczyny!
+00:53:06:...u¿yczcie mi swej mocy!
+00:53:13:Czarodziejko z Ksiê¿yca...
+00:53:20:Czarodziejko z Ksiê¿yca.
+00:53:27:Czarodziejko z Ksiê¿yca.
+00:53:33:Czarodziejko z Ksiê¿yca.
+00:53:47:Co?!
+00:53:52:Nie mo¿e byæ!
+00:54:12:ChodŸmy!
+00:54:13:Tak...
+00:54:26:Ksiê¿ycowa...
+00:54:29:Medytacja!
+00:54:54:Czarodziejko z Ksiê¿yca..
+00:54:57:...wybuch Czarnej Dziury Snów?!
+00:56:43:Chcia³bym ci to daæ.
+00:56:45:Odchodzisz?
+00:56:49:Jestem wró¿k¹, która ochrania s³odk¹, szczêœliw¹...
+00:56:52:...energiê, która narasta w dzieciêcych snach...
+00:56:56:Zawsze bêdê przy twoim boku...
+00:57:29:Dziêkujê za ciasteczka.
+00:57:31:Pozdrów Dianê.
+00:57:37:¯egnaj, Peruru...|Jeszcze siê spotkamy!
+00:58:20:Wspomnienia nie s¹ najwa¿niejsze...|Taisetsu nano wa omoide ja naku
+00:58:28:...ale jeszcze siê spotkamy.|Kitto aeru to negau koto
+00:58:36:Wiêcej ni¿ smutek czujê...|Kanjite iruno kanashimi yori mo
+00:58:44:...radoœæ, ¿e ciê spotka³am.|Anata ni aete yokatta to
+00:58:52:Muskaj¹cy zefirek...|Saeta yoake no kaze ga
+00:58:56:...suszy ³zy na mym policzku.|Hoho no namida kawakasu
+00:59:00:Spotkam ciê znów z uœmiechem na ustach.|Jaa ne mata ne to egao de
+00:59:05:Roz³o¿ê szeroko ramiona..|Watashi ookiku te wo furuwa
+00:59:12:Pamiêtaj o Ksiê¿ycu.|Remember Morning Moon.
+00:59:16:G³os, który ciê wo³a...|Anata wo yobu koe
+00:59:20:Jeœli go s³yszysz, przyleæ tu na skrzydlatych butach.|Kikoeta nara tonde kite hane no SHOES de
+00:59:28:Pamiêtaj o Ksiê¿ycu.|Remember Morning Moon
+00:59:32:Jeœli wierzysz...|Shinjite iru nara
+00:59:37:...miêdzy nami nadal coœ istnieje.|Futari no kisetsu wa mada tsuzuiteru
+00:00:00:
